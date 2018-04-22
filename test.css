@@ -1,4 +1,10 @@
 /* karta produktu */
+/* karta produktu - TEST */
+
+
+
+
+
 
 /* cala ramka produktu */
 #RamkaProduktu { border:0px solid #dbdbdb; padding:10px; margin-bottom:10px; }
@@ -38,6 +44,8 @@
 }
 .Ikonki span { background:#525252; display:inline-block; margin:4px 4px 4px 0px; -webkit-border-radius:2px; -moz-border-radius:2px; border-radius:2px; -khtml-border-radius:2px; }
 .Ikonki b { display:inline-block; color:#ffffff; padding:5px 8px 5px 15px; margin-left:6px; background:url('../obrazki/ikony/gwiazdka.png') no-repeat left center; text-transform:uppercase; letter-spacing: 1mm;font-weight:normal}
+
+
 
 /* ramka zdjecia */
 #ZdjeciaProduktu #ZdjeciaDuze { text-align:left; overflow:hidden; margin:0px auto;}
